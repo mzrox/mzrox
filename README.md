@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzrox&label=Profile%20views&color=0e75b6&style=flat" alt="mzrox" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C , CPP**
+- 💬 Ask me about **C , CPP, JavaScript, Java, Python, Sql, Mongo, Firebase, Supabase, Dart, HTML, CSS, Google Script, Solidity**
 
 - 📫 How to reach me **mztahir1234@gmail.com**
 
